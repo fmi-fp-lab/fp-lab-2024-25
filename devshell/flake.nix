@@ -1,5 +1,5 @@
 {
-  description = "FP lab 20XX/XX";
+  description = "FP lab 2024/25";
 
   outputs = inputs: inputs.flake-parts.lib.mkFlake { inherit inputs; } {
     systems = [
