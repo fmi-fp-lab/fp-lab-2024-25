@@ -23,7 +23,7 @@
 
 Създайте вашето хранилище:
 
-Навигирайте до [страницата на курса][github-classrooms] на GitHub Classrooms за тазгодишното издание на курса, а оттам до `inclass-2024-25` заданието (вероятно [тук][github-classrooms-inclass])). Там ще намерите бутон за "приемане" на "заданието" (`inclass` нещата съм ги моделирал като домашно без краен срок) - той автоматично ще си създаде копие на репото, в което аз мажа по време на час.
+Навигирайте до [страницата на заданието][github-classrooms-inclass]. Там ще намерите бутон за "приемане" на "заданието" (`inclass` нещата съм ги моделирал като домашно без краен срок) - той автоматично ще си създаде копие на репото, в което аз мажа по време на час.
 
 Клонирайте вашето хранилище:
 
@@ -41,7 +41,7 @@ git clone https://github.com/fmi-fp-lab/inclass-2024-25-ВАШЕТО_GITHUB_ИМ
 
 ## Домашни и проект
 
-Абсолютно същата идея и процес както при `In Class` хранилището, само дето в [страницата на курса][github-classrooms] ще потърсите съотвеното задание за въпросното домашно (или проект). Оттам нататък процесът е същият.
+Абсолютно същата идея и процес както при `In Class` хранилището, само дето в дискорда ще потърсите линк за съотвеното задание за въпросното домашно (или проект). Оттам нататък процесът е същият.
 
 Единствена разлика е, че GitHub автомагически ще ви отвори [pull request][github-prs]-и, в които ще можем да си комуникираме по вашият код, като е хубаво този процес да почне възможно най-рано, че да може по-малко време да сте забили ако нещо не върви (TLDR - често commit-вайте и push-вайте)
 
@@ -133,7 +133,7 @@ git config --global merge.conflictstyle diff3
 [git-book]: https://git-scm.com/book/en/v2
 [ssh-keygen]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 [github-ssh-add]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-[github-classrooms]: https://classroom.github.com/classrooms/182299895-fmi-fp-lab-2024-25-classroom
+<!-- [github-classrooms]: https://classroom.github.com/classrooms/182299895-fmi-fp-lab-2024-25-classroom -->
 [github-classrooms-inclass]: https://classroom.github.com/classrooms/182299895-fmi-fp-lab-2024-25-classroom/assignments/inclass-2024-25
 [github-prs]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 [github-create-pr]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
